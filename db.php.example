@@ -1,10 +1,10 @@
 <?php
 
 $db = [
-    'host' => 'localhost',
-    'user' => 'dariaunb_tr',
-    'pass' => '07amotrc77A!',
-    'db' => 'dariaunb_tr',
+    'host' => '',
+    'user' => '',
+    'pass' => '',
+    'db' => '',
 ];
 $dsn = "mysql:host={$db['host']};dbname={$db['db']};charset=utf8";
 $opt = [
